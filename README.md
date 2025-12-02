@@ -12,8 +12,6 @@ This is how we created our StoryMap:
 
 We decided to focus on the Lower East Side because of its cultural significance and migrant history, but more importantly the gentrification the area has undergone.
 
-Then, we began looking deeper into the history of the Lower East Side and found pictures and demographic data.~~~~~~~~~~~~~~~~
-
 Then, we looked deeper into the history of the Lower East Side and found picture and demographic data from the time.
 
 Afterwards, we found how gentrification had affected the area, and began adding the information into our StoryMap through different features on ArcGIS.
