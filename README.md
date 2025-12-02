@@ -10,11 +10,13 @@ The focus of this project is to visualize the neighborhood’s transformation. B
 
 This is how we created our StoryMap:
 
-We decided to focus on the Lower East Side because of its cultural significance and migrant history, but more importantly the gentrification of the area.
+We decided to focus on the Lower East Side because of its cultural significance and migrant history, but more importantly the gentrification the area has undergone.
 
-Then, we began looking deeper into the history of the Lower East Side and found pictures and demographic data.
+Then, we began looking deeper into the history of the Lower East Side and found pictures and demographic data.~~~~~~~~~~~~~~~~
 
-Afterwards, we found how gentrification had affected the area, and began adding the information into our StoryMap.
+Then, we looked deeper into the history of the Lower East Side and found picture and demographic data from the time.
+
+Afterwards, we found how gentrification had affected the area, and began adding the information into our StoryMap through different features on ArcGIS.
 
 - Timeline: Shows the original residents of the Lower East Side, what sparked gentrification, and how gentrification affected the area socailly, economically, and politically.
 
@@ -36,4 +38,8 @@ Afterwards, we found how gentrification had affected the area, and began adding 
 
 The gentrification of the Lower East Side reveals how deeply urban change can shape the lives, identities, and opportunities of long-standing communities. While new development has brought investment and modernization, it has also increased housing costs, displaced residents, and altered the cultural character that once defined the neighborhood. By examining maps, data, and historical context, this StoryMap shows that the transformation of the Lower East Side is not just a physical one it is social, economic, and emotional. Understanding these changes helps us recognize the importance of protecting community voices, preserving cultural heritage, and promoting more equitable development in New York City moving forward.
 
-Images can be found in the file "Story Map methods.docx" attatched above.
+Images, StoryMap, and scope can be found in the attatched files above.
+
+## Links
+
+StoryMap link: https://storymaps.arcgis.com/stories/39470e4208534cf9a2c6a888d4bd62fc
