@@ -35,3 +35,5 @@ Afterwards, we found how gentrification had affected the area, and began adding 
 ## Final Results
 
 The gentrification of the Lower East Side reveals how deeply urban change can shape the lives, identities, and opportunities of long-standing communities. While new development has brought investment and modernization, it has also increased housing costs, displaced residents, and altered the cultural character that once defined the neighborhood. By examining maps, data, and historical context, this StoryMap shows that the transformation of the Lower East Side is not just a physical one it is social, economic, and emotional. Understanding these changes helps us recognize the importance of protecting community voices, preserving cultural heritage, and promoting more equitable development in New York City moving forward.
+
+Images can be found in the file attatched above.
