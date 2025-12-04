@@ -40,4 +40,4 @@ The gentrification of the Lower East Side reveals how deeply urban change can sh
 
 StoryMap link: https://storymaps.arcgis.com/stories/39470e4208534cf9a2c6a888d4bd62fc
 
-Images and project scope can be found in the files attatched above.
+Images, presentation, and project scope can be found in the files attatched above.
